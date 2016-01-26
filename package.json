@@ -1,5 +1,5 @@
 {
-  "name": "visual-regression-testing-starter",
+  "name": "visual-regression-testing-starter-kit",
   "version": "0.0.0",
   "description": "A Starter Kit to test for visual regressions. Contains tools to gather target links, capture screenshots from target links and perform image diff-ing",
   "main": "",
