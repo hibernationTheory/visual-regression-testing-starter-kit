@@ -1,0 +1,4 @@
+output-linkData.json
+node_modules
+npm_debug.log
+.DS_Store

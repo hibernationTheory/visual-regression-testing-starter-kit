@@ -1,0 +1,26 @@
+{
+  "name": "visual-regression-testing-starter",
+  "version": "0.0.0",
+  "description": "A Starter Kit to test for visual regressions. Contains tools to gather target links, capture screenshots from target links and perform image diff-ing",
+  "main": "",
+  "dependencies": {
+    "capture-responsive-screenshots": "^1.0.2",
+    "casperjs": "^1.1.0-beta3",
+    "check-visual-regressions": "0.0.1",
+    "get-selector-attribute-data": "^1.0.4",
+    "phantomjs": "^1.9.19",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "main": "casperjs main.js"
+  },
+  "keywords": [
+    "phantomjs",
+    "casperjs",
+    "resemblejs"
+  ],
+  "author": "Engin Arslan",
+  "license": "ISC"
+}
